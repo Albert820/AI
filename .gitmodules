@@ -7,3 +7,6 @@
 [submodule "cnn-facial-landmark"]
 	path = cnn-facial-landmark
 	url = https://github.com/yinguobing/cnn-facial-landmark.git
+[submodule "trainable_pytorch-sepconv"]
+	path = trainable_pytorch-sepconv
+	url = https://github.com/HyeongminLEE/pytorch-sepconv
