@@ -4,3 +4,6 @@
 [submodule "Mask_RCNN_GPU_train_on_coco_dataset"]
 	path = Mask_RCNN_GPU_train_on_coco_dataset
 	url = https://github.com/akTwelve/tutorials.git
+[submodule "cnn-facial-landmark"]
+	path = cnn-facial-landmark
+	url = https://github.com/yinguobing/cnn-facial-landmark.git
